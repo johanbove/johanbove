@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My social site and blog: <https://social.johanbove.info>
+
 <!--
 **johanbove/johanbove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
